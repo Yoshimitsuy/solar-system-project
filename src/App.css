@@ -1,3 +1,10 @@
+/* * {
+  display: flexbox;
+  flex-wrap: wrap;
+
+} */
+
+
 .App {
   text-align: center;
 }
