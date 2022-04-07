@@ -15,3 +15,11 @@
 .planetinha {
   display: flex;
 }
+
+.title-planet {
+  border-radius: 17px;
+  height: 98px;
+  left: 164px;
+  top: 317px;
+  width: 1140px;
+}
