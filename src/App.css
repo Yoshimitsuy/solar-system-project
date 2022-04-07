@@ -1,10 +1,17 @@
-/* * {
-  background-image: url('../src/images/background.png');
+* {
+
+  /* background-image: url('../src/images/background.png'); */
+
+  /* color: white; */
   display: flexbox;
   flex-wrap: wrap;
-} */
+}
 
 
 .App {
   text-align: center;
+}
+
+.planetinha {
+  display: flex;
 }
